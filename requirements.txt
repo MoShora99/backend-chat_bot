@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-psycopg2-binary
-pydantic
-google-generativeai
-sentence-transformers
-psycopg2
